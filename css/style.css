@@ -83,22 +83,22 @@ hr {
 @media (min-width:1080px){
 
 				#number-grid {
-								grid-column-gap: 45px;
-								grid-row-gap: 45px;
-								margin-top: 60px;
+								grid-column-gap: 55px;
+								grid-row-gap: 55px;
+								margin-top: 80px;
 				}
 				.btn {
-								font-size: 54px;
-								height: 120px;
+								font-size: 60px;
+								height: 150px;
 				}
 				
 				.num-input,
 				.result-input {
-								height: 80px;
-								font-size: 40px;
+								height: 90px;
+								font-size: 64px;
 				}
 				
 				.result-input {
-								font-size: 58px;
+								font-size: 76px;
 				}
 }
