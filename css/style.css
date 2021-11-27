@@ -78,6 +78,29 @@ hr {
 				.result-input {
 								font-size: 58px;
 				}
+	#number-grid {
+								grid-column-gap: 55px;
+								grid-row-gap: 55px;
+								margin: 0 35px;
+								margin-top: 80px;
+				}
+				.btn {
+								font-size: 60px;
+								height: 150px;
+				}
+				
+				.num-input,
+				.result-input {
+								height: 90px;
+								font-size: 64px;
+				}
+				
+				.result-input {
+								font-size: 76px;
+				}
+}
+
+	
 }
 
 @media (min-width:1024px){
